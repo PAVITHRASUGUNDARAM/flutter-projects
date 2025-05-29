@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259963483936",
+    "project_id": "my-project-d5cfe",
+    "storage_bucket": "my-project-d5cfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259963483936:android:2bced13326aed913304945",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcD-fI88y8nJAiARLpM9GnyZha0VGX_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
